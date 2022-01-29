@@ -1,0 +1,16 @@
+D:\Workspace\Projetos\Jogo de RPG\JogoRPG\bin\Debug\net5.0\JogoRPG.exe
+D:\Workspace\Projetos\Jogo de RPG\JogoRPG\bin\Debug\net5.0\JogoRPG.deps.json
+D:\Workspace\Projetos\Jogo de RPG\JogoRPG\bin\Debug\net5.0\JogoRPG.runtimeconfig.json
+D:\Workspace\Projetos\Jogo de RPG\JogoRPG\bin\Debug\net5.0\JogoRPG.runtimeconfig.dev.json
+D:\Workspace\Projetos\Jogo de RPG\JogoRPG\bin\Debug\net5.0\JogoRPG.dll
+D:\Workspace\Projetos\Jogo de RPG\JogoRPG\bin\Debug\net5.0\ref\JogoRPG.dll
+D:\Workspace\Projetos\Jogo de RPG\JogoRPG\bin\Debug\net5.0\JogoRPG.pdb
+D:\Workspace\Projetos\Jogo de RPG\JogoRPG\obj\Debug\net5.0\JogoRPG.csproj.AssemblyReference.cache
+D:\Workspace\Projetos\Jogo de RPG\JogoRPG\obj\Debug\net5.0\JogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Projetos\Jogo de RPG\JogoRPG\obj\Debug\net5.0\JogoRPG.AssemblyInfoInputs.cache
+D:\Workspace\Projetos\Jogo de RPG\JogoRPG\obj\Debug\net5.0\JogoRPG.AssemblyInfo.cs
+D:\Workspace\Projetos\Jogo de RPG\JogoRPG\obj\Debug\net5.0\JogoRPG.csproj.CoreCompileInputs.cache
+D:\Workspace\Projetos\Jogo de RPG\JogoRPG\obj\Debug\net5.0\JogoRPG.dll
+D:\Workspace\Projetos\Jogo de RPG\JogoRPG\obj\Debug\net5.0\ref\JogoRPG.dll
+D:\Workspace\Projetos\Jogo de RPG\JogoRPG\obj\Debug\net5.0\JogoRPG.pdb
+D:\Workspace\Projetos\Jogo de RPG\JogoRPG\obj\Debug\net5.0\JogoRPG.genruntimeconfig.cache
